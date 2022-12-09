@@ -40,3 +40,5 @@ hello! this is git in vim editi
 hello! this is git in vim editi
 
 这是最后一次git测试
+
+第一次远程仓库拉取测试
